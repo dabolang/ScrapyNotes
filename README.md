@@ -1,6 +1,6 @@
 # Scrapy 笔记
 
-# 资料收集
+## 资料收集
 
 [官方网站](https://scrapy.org/)  
 [官方GitHub](https://github.com/scrapy/scrapy)  
